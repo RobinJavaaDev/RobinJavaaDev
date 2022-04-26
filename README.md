@@ -20,21 +20,17 @@
 
 
 
-
-
-
-
 <!--
 **RobinJavaaDev/RobinJavaaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... YD now
+- 🌱 I’m currently learning ... java,HTML,CSS,SQL,javascript
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🤔 I’m looking for help with ... full-stack Dev
+- 💬 Ask me about ... anything:)
+- 📫 How to reach me: ... not yet
+- 😄 Pronouns: ... male
 - ⚡ Fun fact: ...
 -->
