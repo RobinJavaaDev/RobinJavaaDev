@@ -40,8 +40,9 @@
 
 ---
 
-<h3>📫 Contact</h3>
-<a href="mailto:robinyui@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<!-- 필요시 LinkedIn, 블로그 등 추가 -->
+<h3>📧 Contact</h3>
+<a href="mailto:robinyui@naver.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=mail&logoColor=white" alt="Email">
+</a>
 
 </div>
